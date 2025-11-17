@@ -1,0 +1,3 @@
+"""
+Sellekt project package.
+"""
